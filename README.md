@@ -20,7 +20,7 @@ These features are planned to be included in soon.
 -Getting directions.
 
 ## How it works:
-(chart.odg)
+(nlp_core/chart.odg)
 
 
 
