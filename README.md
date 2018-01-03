@@ -8,19 +8,19 @@ You need the following:
 * Django
 
 ## Current Features
--Open or close apps.
--Make phone calls and send texts.
--Set reminders.
--Tell the time and date.
--Search for files and apps.
+- Open or close apps.
+- Make phone calls and send texts.
+- Set reminders.
+- Tell the time and date.
+- Search for files and apps.
 
 ## Roadmap
 These features are planned to be included in soon.
--Getting the weather.
--Getting directions.
+- Getting the weather.
+- Getting directions.
 
 ## How it works:
-!(nlp_core/chart.odg)
+![](nlp_core/chart.odg)
 
 
 
