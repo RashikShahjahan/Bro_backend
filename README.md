@@ -22,8 +22,11 @@ These features are planned to be included in soon.
 ## How it works:
 (chart.png)
 
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> ea90b1ba60d1f863511545ce960618fe484658d4
