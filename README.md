@@ -1,2 +1,2 @@
-# Bro_backend
-Web backend for Bro.
+# Bro
+A virtual assistant.
